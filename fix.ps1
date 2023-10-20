@@ -53,7 +53,7 @@ foreach ($adapter in $wirelessAdapters) {
     }
 }
 
-Write-Host "`n🗑️ Limpando todos os caches de DNS..." -ForegroundColor Cyan
+Write-Host "`n🗑️ Limpando todos os caches de DNS..." -ForegroundColor Yellow
 try {
     $null = ipconfig /flushdns 2>&1
     Clear-DnsClientCache
