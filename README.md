@@ -11,6 +11,7 @@ Este script PowerShell 🛠️ é projetado para otimizar a configuração de DN
 
 ## 🏃 Como executar
 
-1. Abra o PowerShell como administrador.
-2. Navegue até o diretório onde o script `fix.ps1` está localizado.
-3. Execute o script usando o comando: `.\fix.ps1` ou clicando com o botão direito do mouse sobre o arquivo, e clicando na opção "Executar como Administrador"
+1. Baixe o arquivo fix.ps1
+2. Abra o PowerShell como administrador.
+3. Navegue até o diretório onde o script `fix.ps1` está localizado.
+4. Execute o script usando o comando: `.\fix.ps1` ou clicando com o botão direito do mouse sobre o arquivo, e clicando na opção "Executar como Administrador"
